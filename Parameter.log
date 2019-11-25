@@ -1,0 +1,42 @@
+[ 12/12/2017 13:35:33 ] Nr: Meters (Displayed) von 1 zu 0
+[ 12/12/2017 13:36:27 ] Nr: Meters (Displayed) von 0 zu 1
+[ 12/12/2017 13:36:30 ] Nr: Meters (Displayed) von 1 zu 0
+[ 22.02.2018 11:24:11 ] String: Barcode Device von \\?\HID#VID_0461&PID_0010&MI_00#8&b213d51&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd} zu \\?\HID#VID_046A&PID_0023&MI_00#9&1f4f8d2a&1&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+[ 13.09.2019 11:28:48 ] String: Directory von Y:\Projekte\SMP\Values zu D:\Projekte\SMP\Values\
+[ 9/19/2019 12:01:28 AM ] PARAM_NR: Meters (Input) von 0 zu 1
+[ 9/19/2019 12:02:16 AM ] NR: Meters (Input) von 1 zu 0
+[ 9/20/2019 6:28:53 PM ] STR: Info1 from "382582582358258" to "1"
+[ 9/20/2019 6:28:53 PM ] STR: Info1 from "1" to "12"
+[ 9/20/2019 6:28:53 PM ] STR: Info1 from "12" to "123"
+[ 9/20/2019 6:28:54 PM ] STR: Info1 from "123" to "1234"
+[ 9/20/2019 6:28:54 PM ] STR: Info1 from "1234" to "12345"
+[ 9/20/2019 6:28:54 PM ] STR: Info1 from "12345" to "123456"
+[ 9/20/2019 6:28:54 PM ] STR: Info1 from "123456" to "1234567"
+[ 9/20/2019 6:28:54 PM ] STR: Info1 from "1234567" to "12345678"
+[ 9/20/2019 6:28:55 PM ] STR: Info1 from "12345678" to "123456789"
+[ 9/20/2019 8:58:53 PM ] Nr: Meters (Input) from 0 to 1
+[ 9/20/2019 8:58:53 PM ] Nr: Meters (Displayed) from 0 to 2
+[ 9/20/2019 8:58:53 PM ] Boolean: ExportHeader from "False" to "True"
+[ 9/20/2019 9:02:50 PM ] Nr: Meters (Input) from 1 to 0
+[ 9/20/2019 9:02:50 PM ] Nr: Meters (Displayed) from 2 to 0
+[ 9/20/2019 9:06:32 PM ] Nr: Grid Data from 1 to 0
+[ 9/20/2019 9:06:49 PM ] Nr: Grid Data from 0 to 1
+[ 9/20/2019 9:06:57 PM ] Nr: Grid Data from 1 to 0
+[ 9/23/2019 5:31:35 PM ] Nr: Meters (Displayed) from 0 to 1
+[ 9/23/2019 5:33:12 PM ] Nr: Meters (Displayed) from 1 to 0
+[ 9/23/2019 5:36:00 PM ] Nr: Meters (Displayed) from 0 to 1
+[ 9/23/2019 5:36:10 PM ] Nr: Meters (Displayed) from 1 to 0
+[ 9/25/2019 10:41:12 PM ] String: Info1 from "123456789" to "1234567890"
+[ 9/25/2019 11:34:21 PM ] String: Info1 from "1234567890" to "123456789"
+[ 9/26/2019 12:06:10 AM ] String: Info1 from "1234567890" to "12345678901234567890"
+[ 9/26/2019 12:06:14 AM ] String: Info1 from "12345678901234567890" to "12345678901"
+[ 9/26/2019 12:06:15 AM ] String: Info1 from "12345678901" to "1234567890"
+[ 11/8/2019 3:45:01 PM ] Boolean: EditableIndex from "True" to "False"
+[ 11/8/2019 3:51:14 PM ] Boolean: ResetIndex from "False" to "True"
+[ 11/8/2019 3:51:32 PM ] Boolean: EditableIndex from "False" to "True"
+[ 11/8/2019 3:51:54 PM ] Boolean: ResetIndex from "True" to "False"
+[ 11/21/2019 5:03:20 PM ] Boolean: Ethernet Active from "False" to "True"
+[ 11/21/2019 5:15:00 PM ] String: Ethernet IP from "192.168.1.100" to "192.168.11.122"
+[ 11/21/2019 5:15:00 PM ] Integer: Ethernet Port from 80 to 8080
+[ 11/22/2019 10:53:18 AM ] Nr: RS232 Port from 0 to 1
+[ 11/25/2019 3:08:13 PM ] String: Ethernet IP from "192.168.11.122" to "192.168.11.99"
